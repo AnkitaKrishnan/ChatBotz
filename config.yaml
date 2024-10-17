@@ -1,0 +1,7 @@
+autoTokenizer: "local/tokenizer"  # Path to the tokenizer directory
+autoModelForCausalLM: "local/model"  # Path to the model directory
+modelEmbeddings: "sentence-transformers/all-MiniLM-L6-v2"  # Example model name for embeddings
+localModelPath: "local/model"  # Path to the model directory
+params: "local/params.json"  # If you have params file, otherwise remove this
+checklist: "local/checklist.chk"  # If you have checklist file, otherwise remove this
+tokenizerChecklist: "local/tokenizer_checklist.chk"  # If you have tokenizer checklist, otherwise remove this

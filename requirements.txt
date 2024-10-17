@@ -1,0 +1,13 @@
+pyyaml
+PyMuPDF
+torch
+gradio
+Pillow
+langchain
+transformers
+huggingface_hub
+langchain-community
+langchain_huggingface
+pypdf
+chromadb
+accelerate
